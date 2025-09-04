@@ -23,6 +23,8 @@ class Operaciones:
     def potencia(self):
         self.resultado = "La potencia de " + str(self.num1) + " elevado a " + str(self.num2) + " es igula a " + str(self.num1 ** self.num2)
         
-    def mostrarResultado(self):
-        print(self.resultado)
+    def raiz(self):
+        self.resultado = "la raiz de " (self.num1)  + (self.num2) + " es igula a " = (self.num1 ** 1/self.num2)
         
+    def mostrarResultados(self):
+        print(self.resultado)    
